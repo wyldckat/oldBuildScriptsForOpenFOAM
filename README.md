@@ -5,7 +5,7 @@ Repository where I keep some of my old build scripts for old versions of OpenFOA
 
 License-wise, all provided under GPL v3, as further described in the file `LICENSE`.
 
-This [git repository](https://github.com/wyldckat/oldBuildScriptsForOpenFOAM) was brought to you by Bruno Santos (wyldckat@github working at [blueCAPE Lda](www.bluecape.com.pt)).
+This [git repository](https://github.com/wyldckat/oldBuildScriptsForOpenFOAM) was brought to you by Bruno Santos (wyldckat@github working at [blueCAPE Lda](http://www.bluecape.com.pt)).
 
 
 Description
